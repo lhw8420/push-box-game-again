@@ -14,5 +14,8 @@
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "^2.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.38.1"
+  }
 }
