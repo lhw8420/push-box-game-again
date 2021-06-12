@@ -39,3 +39,9 @@
 4. 场景切换,以及交由GAME状态完成
 5. 游戏获胜判断....
 6. ....
+
+
+辅助命令
+git push失败unable to access ‘https://github.com/...‘的解决办法
+git config --global --unset http.proxy
+git config --global --unset https.proxy
