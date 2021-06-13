@@ -61,11 +61,11 @@ class Game {
       if (keyJson) {
         this.map.move(keyJson);
 
-        this.history.addHistory(this.map);
+        // this.history.addHistory(this.map);
       }
-      if (this.map.isWin) {
-        this.section4();
-      }
+      // if (this.map.isWin) {
+      //   this.section4();
+      // }
     };
 
     window.addEventListener('keydown', this.fooKey);
