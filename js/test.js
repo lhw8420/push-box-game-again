@@ -1,1 +1,2 @@
-var a = 23;
+var a = 8923;
+console.log('a: ', a);
